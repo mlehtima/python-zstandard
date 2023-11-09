@@ -1,0 +1,3 @@
+[submodule "python-zstandard"]
+	path = python-zstandard
+	url = https://github.com/indygreg/python-zstandard.git
